@@ -26,4 +26,7 @@ Model Selection: Several machine learning algorithms were evaluated and compared
 
 Model Tuning: The hyperparameters of the selected model were tuned using grid search and cross-validation to improve its performance.                     
 
-Model Evaluation: The performance of the final model was evaluated using various metrics such as mean absolute error, mean squared error, and R-squared.                
+Model Evaluation: The performance of the final model was evaluated using various metrics such as mean absolute error, mean squared error, and R-squared.   
+
+# Results                   
+The final model achieved an R-squared value of 0.85, indicating that it can explain 85% of the variation in the insurance charges. The most important features for predicting insurance charges were age, BMI, and smoking habit. The model can be used to predict the insurance premium of individuals with a reasonable degree of accuracy.                       
