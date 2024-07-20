@@ -29,6 +29,22 @@ Model Tuning: The hyperparameters of the selected model were tuned using grid se
 Model Evaluation: The performance of the final model was evaluated using various metrics such as mean absolute error, mean squared error, and R-squared.   
 
 # Results                   
-The final model achieved an R-squared value of 0.85, indicating that it can explain 85% of the variation in the insurance charges. The most important features for predicting insurance charges were age, BMI, and smoking habit. The model can be used to predict the insurance premium of individuals with a reasonable degree of accuracy.   
+The final model achieved an R-squared value of 0.85, indicating that it can explain 85% of the variation in the insurance charges. The most important features for predicting insurance charges were age, BMI, and smoking habit. The model can be used to predict the insurance premium of individuals with a reasonable degree of accuracy. 
+
+# Home Page
+![Home Page](image1.jpg)
+
+# Prediction Page
+![Prediction Page](image2.jpg)
+
+# BMI Calculator Page
+![BMI Calculator Page](image3.jpg)
+
+# Recomendation Page
+![Home Page](image4.jpg)
+
+#About Page
+![About Page](image5.jpg)
+
 
 
