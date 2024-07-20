@@ -14,7 +14,7 @@ Seaborn
 Scikit-learn                               
 
 # Methodology                                                      
-The project uses a machine learning model to predict the insurance premium of individuals. The following steps were taken:                             
+The project uses a machine learning model to predict the insurance premium of individuals.The following steps were taken:                             
 
 Data Preprocessing: The dataset was cleaned and preprocessed by handling missing values, encoding categorical variables, and scaling numerical variables.       
 
