@@ -43,7 +43,7 @@ The final model achieved an R-squared value of 0.85, indicating that it can expl
 # Recomendation Page
 ![Home Page](image4.jpg)
 
-#About Page
+# About Page
 ![About Page](image5.jpg)
 
 
