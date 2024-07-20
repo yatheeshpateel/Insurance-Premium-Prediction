@@ -6,7 +6,7 @@ The dataset used in this project is the "Medical Cost Personal Datasets" availab
 
 # Requirements          
 Python 3              
-Jupyter Notebook            
+Jupyter Notebook           
 Pandas                   
 NumPy                            
 Matplotlib                        
