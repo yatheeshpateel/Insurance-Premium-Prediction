@@ -32,7 +32,7 @@ Model Evaluation: The performance of the final model was evaluated using various
 The final model achieved an R-squared value of 0.85, indicating that it can explain 85% of the variation in the insurance charges. The most important features for predicting insurance charges were age, BMI, and smoking habit. The model can be used to predict the insurance premium of individuals with a reasonable degree of accuracy. 
 
 # Home Page
-![Home Page](image1.jpg)
+[Home Page](image1.jpg)
 
 # Prediction Page
 ![Prediction Page](image2.jpg)
